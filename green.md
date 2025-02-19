@@ -1,6 +1,6 @@
 # The Green One
 ### Just a green duck
-![Duck](./imgs/bg-free/green.png)
+![Duck](https://github.com/Nezolf/MyDuckCollection/blob/main/imgs/green.png)
 --- 
 - Units : `1`
 - Name : `None`
