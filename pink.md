@@ -1,6 +1,6 @@
 # The Pink One
 ### Just a pink duck
-![Duck](/imgs/bg-free/pink.png)
+![Duck](https://github.com/Nezolf/MyDuckCollection/blob/main/imgs/pink.png)
 --- 
 - Units : `1`
 - Name : `None`

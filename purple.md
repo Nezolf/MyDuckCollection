@@ -1,6 +1,6 @@
 # The Purple One
 ### Just a purple duck
-![Duck](/imgs/bg-free/purple.png)
+![Duck](https://github.com/Nezolf/MyDuckCollection/blob/main/imgs/purple.png)
 --- 
 - Units : `1`
 - Name : `None`

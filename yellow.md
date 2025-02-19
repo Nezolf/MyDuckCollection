@@ -1,6 +1,6 @@
 # The Yellow One
 ### The original duck
-![Duck](/imgs/bg-free/yellow.png)
+![Duck](https://github.com/Nezolf/MyDuckCollection/blob/main/imgs/yellow.png)
 --- 
 - Units : `10`
 - Name : `None`

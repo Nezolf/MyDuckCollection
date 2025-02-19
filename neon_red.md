@@ -1,6 +1,6 @@
 # The Neon Red One
 ### Just a neon red duck
-![Duck](/imgs/bg-free/neon_red.png)
+![Duck](https://github.com/Nezolf/MyDuckCollection/blob/main/imgs/neon_red.png)
 --- 
 - Units : `2`
 - Name : `None`

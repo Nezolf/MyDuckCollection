@@ -1,6 +1,6 @@
 # The Orange One
 ### Just a orange duck
-![Duck](/imgs/bg-free/orange.png)
+![Duck](https://github.com/Nezolf/MyDuckCollection/blob/main/imgs/orange.png)
 --- 
 - Units : `1`
 - Name : `None`

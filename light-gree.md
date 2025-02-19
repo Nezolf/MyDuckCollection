@@ -1,6 +1,6 @@
 # The Light Green One
 ### Just a eyes-less light green duck
-![Duck](/imgs/bg-free/eyesless.png)
+![Duck](https://github.com/Nezolf/MyDuckCollection/blob/main/imgs/eyesless.png)
 --- 
 - Units : `1`
 - Name : `Eyesless`
