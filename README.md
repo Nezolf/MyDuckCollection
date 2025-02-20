@@ -7,7 +7,7 @@ Here I would list all the ducks I have in my collection, I let you admire them a
 - ### Normal Ducks 🦆
     - [The Black One](https://github.com/Nezolf/MyDuckCollection/blob/main/black.md)
     - [The Green One](https://github.com/Nezolf/MyDuckCollection/blob/main/green.md)
-    - [The Light Green One](https://github.com/Nezolf/MyDuckCollection/blob/main/light-green.md)
+    - [The Light Green One](https://github.com/Nezolf/MyDuckCollection/blob/main/light_green.md)
     - [The Neon Red One](https://github.com/Nezolf/MyDuckCollection/blob/main/neon_red.md)
     - [The Orange One](https://github.com/Nezolf/MyDuckCollection/blob/main/orange.md)
     - [The Pink One](https://github.com/Nezolf/MyDuckCollection/blob/main/pink.md)
